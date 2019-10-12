@@ -5,3 +5,5 @@ console.log('add js')
 let a = ''
 // hotfix38
 let c = 'casd'
+a += 'xcljvk'
+// 继续开发
